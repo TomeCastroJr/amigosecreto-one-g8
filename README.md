@@ -5,7 +5,7 @@ A aplicação possibilita inserir novos nomes, exibi-los dinamicamente na tela e
 
 ---
 
-![Image](https://github.com/user-attachments/assets/a331652e-fb88-43a7-96dd-09749a5e12ee)
+![Image](https://github.com/user-attachments/assets/afcdc592-14c5-487d-ae34-a584417ba75c)
 
 ---
 ## Tecnologias Utilizadas
