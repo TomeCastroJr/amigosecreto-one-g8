@@ -17,3 +17,12 @@ function adicionarAmigo(){
     nomeAmigo.focus();
 }
 
+function atualizarListaDeAmigosHtml(){
+    listaDeAmigos.forEach(amigo => {
+        let li = document.createElement("li");
+        li.innerText = amigo;
+        listaDeAmigoshtml.appendChild(li);
+    })
+ 
+}
+
